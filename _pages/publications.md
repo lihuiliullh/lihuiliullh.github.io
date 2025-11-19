@@ -16,6 +16,20 @@ author_profile: true
 {% endfor %}
 
 
+### Journals
+```markdown
+
+1. Knowledge Graph Comparative Reasoning for Fact Checking: Problem Definition and Algorithms. 
+   Data Engineering 2022
+   Lihui Liu, Ruining Zhao, Boxin Du, Yi Ren Fung, Heng Ji, Jiejun Xu, Hanghang Tong
+
+```
+
+
+
+### Conferences
+```markdown
+
 18. Prompt tuning with attribute guidance for entity matching. 2024 under review
 Lihui Liu, Jinha Kim, Vidit Bansal
 
@@ -69,3 +83,5 @@ S. Roach, C. Ni, A. Kopylov, T. Lu, J. Xu, S. Zhang, B. Du, Dawei Zhou, Jun Wu, 
 
 1. Approximated Attributed Subgraph Matching. BigData 2019 [paper](https://ieeexplore.ieee.org/document/9006525)
 Lihui Liu, Boxin Du, Jiejun Xu, Hanghang Tong
+
+```
