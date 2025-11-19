@@ -1,5 +1,4 @@
 ---
-title: "Machine Learning with Graphs"
+title: "Machine Learning with Graphs (Winter)"
 collection: teaching
-semester: "Winter"
 ---
