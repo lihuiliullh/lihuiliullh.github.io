@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -31,3 +31,4 @@ M.S degree from Chinese Academy of Sciences, Institute of Software (2014-2017)
 B.S degree from HuaZhong University of Science and Technology (2010-2014)
 
 ```
+-->
