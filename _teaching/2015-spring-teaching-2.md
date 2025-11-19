@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning with Graphs"
 collection: teaching
-date: every winter semester
+semester: "Winter"
 ---
 
 Heading 1
