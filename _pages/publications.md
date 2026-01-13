@@ -17,7 +17,10 @@ author_profile: true
 
 
 ### Journals
-
+1. Unifying Knowledge in Agentic LLMs: Concepts, Methods, and Recent Advancements. 
+   KDD Exploration 2025
+   Lihui Liu, Kai Shu
+   
 1. Neural-Symbolic Reasoning over Knowledge Graphs: A Survey from a Query Perspective. 
    KDD Exploration 2025
    Lihui Liu, Zihao Wang, Hanghang Tong
@@ -29,6 +32,8 @@ author_profile: true
 
 
 ### Conferences
+1. MixRAG : Mixture-of-Experts Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering. 2026 WWW  
+Lihui Liu, Jiayuan Ding, Subhabrata Mukherjee, Carl Yang
 
 1. MORGAN: To Bridge Mixture of Experts and Spectral Graph Neural Network. 2026 AAAI  
 Lihui Liu, Yuchen Yan
