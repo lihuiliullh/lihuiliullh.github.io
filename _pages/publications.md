@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+### Books
+1. Neural Symbolic Knowledge Graph Reasoning: A Pathway Towards Neural Symbolic AI. 
+   Springer 2026
+   Lihui Liu, Hanghang Tong
 
 ### Journals
 1. Unifying Knowledge in Agentic LLMs: Concepts, Methods, and Recent Advancements. 
@@ -32,6 +36,15 @@ author_profile: true
 
 
 ### Conferences
+1. RLKGC: Reinforcement Learning Retrieval with Large Language Models for Knowledge Graph Completion. 2026 PAKDD
+Urshi Barua Teya, Lihui Liu
+
+1. Neural-Symbolic Logic Query Answering in Non-Euclidean Space. 2026 PAKDD  
+Lihui Liu
+
+1. Prompt-tuning with Attribute Guidance for Low-resource Entity Matching. 2026 PAKDD  
+Lihui Liu, Carl Yang
+
 1. MixRAG : Mixture-of-Experts Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering. 2026 WWW  
 Lihui Liu, Jiayuan Ding, Subhabrata Mukherjee, Carl Yang
 
