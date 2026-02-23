@@ -37,7 +37,7 @@ author_profile: true
 
 ### Conferences
 1. RLKGC: Reinforcement Learning Retrieval with Large Language Models for Knowledge Graph Completion. 2026 PAKDD
-Urshi Barua Teya, Lihui Liu
+Urshi Barua Teya, Kai Shu, Lihui Liu
 
 1. Neural-Symbolic Logic Query Answering in Non-Euclidean Space. 2026 PAKDD  
 Lihui Liu
