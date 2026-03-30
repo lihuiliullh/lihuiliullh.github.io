@@ -63,9 +63,6 @@ Lihui Liu, Zihao Wang, Dawei Zhou, Ruijie Wang, Yuchen Yan, Bo Xiong, Sihong He,
 1. EviNet: Towards Open-World Graph Learning via Evidential Reasoning Network. 2025 KDD  
 Weijie Guan, Jian Kang, Lihui Liu, Dawei Zhou
 
-1. AdvQA: Query-Aware Adversarial Training for Knowledge Graph Reasoning. 2025 BigData
-Ziyan Liu, Lihui Liu
-
 1. R-KBQA: Revise-once correction for Generate-then-Retrieve KBQA. 2025 BigData
 Bowen Huang, Lihui Liu
 
