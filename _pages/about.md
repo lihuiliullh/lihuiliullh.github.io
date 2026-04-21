@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at Wayne State University. My research interests lie in **neural symbolic AI**, **large language models**, **augmented retrieval**, **knowledge graph reasoning**, and **graph neural networks**.
+I am an assistant professor at Wayne State University. My research interests lie in  **knowledge graph reasoning**, and **graph mining**.
 
 I got my Ph.D. in the Department of Computer Science at University of Illinois at Urbana-Champaign. Before that, I obtained my M.S degree from Chinese Academy of Sciences, Institute of Software and B.S degree from HuaZhong University of Science and Technology. 
 
@@ -23,7 +23,7 @@ I got my Ph.D. in the Department of Computer Science at University of Illinois a
 <!-- 
 ### Education
 ```markdown
-
+**neural symbolic AI**, **large language models**, **augmented retrieval**, **knowledge graph reasoning**, and **graph neural networks**.
 Ph.D candidate University of Illinois at Urbana-Champaign. (2019-2024)
 
 Ph.D student Arizona State University. (2018-2019)
