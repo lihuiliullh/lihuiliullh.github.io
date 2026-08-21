@@ -33,7 +33,22 @@ author_profile: true
    Data Engineering 2022
    Lihui Liu, Ruining Zhao, Boxin Du, Yi Ren Fung, Heng Ji, Jiejun Xu, Hanghang Tong
 
+### Preprint
+1. Universal Knowledge Base: A New Generation of Knowledge Management in the Era of Large Language Models
 
+2. Reinforcement Learning for Large Language Model Post-Training, Reasoning, and Data Generation: A Survey
+
+3. HiKGC: Hyper-Relational Knowledge Graphs Completion with Neural Logical Operators
+
+4. Personalized Large Language Models for Healthcare: A Comprehensive Survey
+
+5. A Survey of Unifying Large Language Models with Graph Learning: Concepts, Methods, and Recent Advancements for Text-attributed Graph
+
+6. LLM Agents for Healthcare: Concepts, Methods, and Applications
+
+7. A Survey of Large Language Models in Education: Perspectives from Students and Teachers
+
+8. Scaling Enterprise Agent Deployment: A Survey of LLM-Based Operational Grounding Construction
 
 ### Conferences
 1. RLKGC: Reinforcement Learning Retrieval with Large Language Models for Knowledge Graph Completion. 2026 PAKDD
