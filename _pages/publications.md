@@ -50,6 +50,8 @@ author_profile: true
 
 8. Scaling Enterprise Agent Deployment: A Survey of LLM-Based Operational Grounding Construction
 
+9. A Survey of Process Reward Models in the Lifecycle of Large Language Models
+
 ### Conferences
 1. RLKGC: Reinforcement Learning Retrieval with Large Language Models for Knowledge Graph Completion. 2026 PAKDD
 Urshi Barua Teya, Kai Shu, Lihui Liu
