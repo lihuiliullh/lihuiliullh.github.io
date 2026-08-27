@@ -1,10 +1,10 @@
 /* ==========================================================================
-   LAB PAGE + SHARED CONTENT POLISH
+   SHARED CONTENT POLISH
    ========================================================================== */
 
-/* Give content-level h1/h3 (e.g. CV/lab section headers written as Markdown
+/* Give content-level h1/h3 (e.g. CV section headers written as Markdown
    setext headings, or "### Section" headers on the publications page) the
-   same visual weight as .page__content h2 already has, so long pages read
+   same visual weight .page__content h2 already has, so long pages read
    as clearly divided sections instead of one wall of text. */
 .page__content {
 
@@ -17,7 +17,7 @@
   h3 {
     margin-top: 1.75em;
     padding-bottom: 0.3em;
-    border-bottom: 1px dashed $border-color;
+    border-bottom: 1px solid $border-color;
   }
 
   hr {
@@ -27,75 +27,10 @@
   }
 }
 
-/* Responsive card grid used for research areas / lab focus items */
-.lab-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1em;
-  margin: 1.5em 0 2em;
-}
-
-.lab-card {
-  padding: 1.1em 1.25em;
-  background-color: mix(#fff, $primary-color, 96%);
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
-
-  h4 {
-    margin-top: 0;
-    margin-bottom: 0.4em;
-    color: $primary-color;
-  }
-
-  p, ul {
-    margin-bottom: 0;
-    font-size: 0.95em;
-  }
-
-  &:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
-  }
-}
-
-/* Simple member card used in the "Current Members" / "Alumni" sections */
-.lab-members {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 1em;
-  margin: 1.5em 0 2em;
-}
-
-.lab-member-card {
-  padding: 1em;
-  text-align: center;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-
-  .lab-member-name {
-    display: block;
-    margin-bottom: 0.15em;
-    font-weight: bold;
-  }
-
-  .lab-member-role {
-    display: block;
-    color: $light-gray;
-    font-size: 0.85em;
-  }
-}
-
 /* Resize sidebar profile image, with a touch of polish */
 .sidebar img.profile {
   width: 220px;   /* change this number */
   height: auto;
   border-radius: 50%; /* keep circular shape */
   box-shadow: $box-shadow;
-  transition: transform 0.2s ease;
-
-  &:hover {
-    transform: scale(1.03);
-  }
 }

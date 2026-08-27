@@ -11,31 +11,12 @@ Welcome! I lead a research lab at Wayne State University working on **knowledge 
 
 ## Research Areas
 
-<div class="lab-grid" markdown="1">
+* **Knowledge Graph Reasoning** — neural and neural-symbolic methods for answering complex logical queries over knowledge graphs, including hyperbolic and non-Euclidean embeddings.
+* **Graph Mining & GNNs** — graph neural network architectures, spectral methods, and representation learning for large, structured, and evolving graphs.
+* **LLMs + Knowledge Graphs** — retrieval-augmented generation, knowledge graph question answering, and grounding LLM agents in structured, verifiable knowledge.
+* **Neural-Symbolic AI** — combining logical operators and symbolic reasoning with learned representations for interpretable, generalizable AI systems.
 
-<div class="lab-card" markdown="1">
-#### Knowledge Graph Reasoning
-Neural and neural-symbolic methods for answering complex logical queries over knowledge graphs, including hyperbolic and non-Euclidean embeddings.
-</div>
-
-<div class="lab-card" markdown="1">
-#### Graph Mining & GNNs
-Graph neural network architectures, spectral methods, and representation learning for large, structured, and evolving graphs.
-</div>
-
-<div class="lab-card" markdown="1">
-#### LLMs + Knowledge Graphs
-Retrieval-augmented generation, knowledge graph question answering, and grounding LLM agents in structured, verifiable knowledge.
-</div>
-
-<div class="lab-card" markdown="1">
-#### Neural-Symbolic AI
-Combining logical operators and symbolic reasoning with learned representations for interpretable, generalizable AI systems.
-</div>
-
-</div>
-
-See the [Publications](/publications/) page for our full list of papers.
+See the [Publications](/publications/) page for the full list of papers.
 
 ## Join the Lab
 
@@ -47,21 +28,7 @@ See the [Publications](/publications/) page for our full list of papers.
 
 ## Current Members
 
-<div class="lab-members" markdown="1">
-
-<div class="lab-member-card" markdown="1">
-<span class="lab-member-name">Lihui Liu</span>
-<span class="lab-member-role">Principal Investigator</span>
-</div>
-
-</div>
-
-<!-- TODO: add students/postdocs here as they join, e.g.:
-<div class="lab-member-card" markdown="1">
-<span class="lab-member-name">Student Name</span>
-<span class="lab-member-role">Ph.D. Student</span>
-</div>
--->
+* **Lihui Liu** — Principal Investigator
 
 *Lab roster coming soon — see [Join the Lab](#join-the-lab) above if you'd like to be one of the first members.*
 
