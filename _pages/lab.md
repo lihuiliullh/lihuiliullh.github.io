@@ -11,13 +11,13 @@ Welcome! I lead a research lab at Wayne State University working on **knowledge 
 
 ## Research Areas
 
-* **Knowledge Graph Reasoning** — neural and neural-symbolic methods for answering complex logical queries over knowledge graphs, including hyperbolic and non-Euclidean embeddings.
-* **Graph Mining & GNNs** — graph neural network architectures, spectral methods, and representation learning for large, structured, and evolving graphs.
-* **LLMs + Knowledge Graphs** — retrieval-augmented generation, knowledge graph question answering, and grounding LLM agents in structured, verifiable knowledge.
-* **Neural-Symbolic AI** — combining logical operators and symbolic reasoning with learned representations for interpretable, generalizable AI systems.
+* **Agentic LLMs**, **Neural-Symbolic AI**, **Knowledge Graph Reasoning**, **Graph Mining & GNNs**
 
 
 ## Current Members
+<!-- Urshi Barua Teya -->
+<!-- Asma Irfan -->
+<!-- Chaturya Yarradoddi -->
 
 
 ## Alumni
