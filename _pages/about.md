@@ -18,16 +18,8 @@ I am an assistant professor at Wayne State University. My research interests lie
 
 ## Prospective Students
 
-<div class="notice--primary" markdown="1">
 **I have several Ph.D. positions available** and am always looking for self-motivated Ph.D. students to join my team. If you are interested in my research, please feel free to reach out to me via email with the subject line `Ph.D. Application -- [Your Name]`. (hw6926 at wayne dot edu)
 
 **I also have multiple internship positions available.** Please contact me if you are interested.
-</div>
 
-Learn more about the lab's research areas and current openings on the [Lab](/lab/) page.
 
-## Links
-
-* [Google Scholar](https://scholar.google.com/citations?user=GI7jyeQAAAAJ&hl=en)
-* [Publications](/publications/)
-* [Lab](/lab/)
