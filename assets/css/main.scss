@@ -33,16 +33,10 @@
 @import "page";
 @import "archive";
 @import "sidebar";
+@import "lab";
 
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-/* Resize sidebar profile image */
-.sidebar img.profile {
-  width: 220px;   /* change this number */
-  height: auto;
-  border-radius: 50%; /* keep circular shape */
-}

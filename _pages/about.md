@@ -8,29 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at Wayne State University. My research interests lie in  **knowledge graph reasoning**, and **graph mining**.
+I am an assistant professor at Wayne State University. My research interests lie in **knowledge graph reasoning** and **graph mining**, with a growing focus on connecting these to **large language models**. I lead a small [research lab](/lab/) working on these topics — visit the lab page for research areas and openings.
 
-I got my Ph.D. in the Department of Computer Science at University of Illinois at Urbana-Champaign. Before that, I obtained my M.S degree from Chinese Academy of Sciences, Institute of Software and B.S degree from HuaZhong University of Science and Technology. 
+## Education
 
-**I have several Ph.D. positions available and am always looking for self-motivated Ph.D. students to join my team. If you are interested in my research, please feel free to reach out to me via email with the subject line 'Ph.D. Application -- [Your Name].'. (hw6926 at wayne dot edu)**
+* Ph.D. in Computer Science, University of Illinois at Urbana-Champaign
+* M.S., Chinese Academy of Sciences, Institute of Software
+* B.S., Huazhong University of Science and Technology
 
-**I also have multiple internship positions available. Please contact me if you are interested.**
-   
-[Google Scholar](https://scholar.google.com/citations?user=GI7jyeQAAAAJ&hl=en)
+## Prospective Students
 
-<!-- I'm constantly seeking students interested in interning with me on topics such as LLM, NLP, LLM + KG, LM + KG for QA, KG for conversational QA, KG for recommendation, GNN, graph mining and more. Please don't hesitate to contact me (lihuil2@illinois.edu) if you're interested.-->
+<div class="notice--primary" markdown="1">
+**I have several Ph.D. positions available** and am always looking for self-motivated Ph.D. students to join my team. If you are interested in my research, please feel free to reach out to me via email with the subject line `Ph.D. Application -- [Your Name]`. (hw6926 at wayne dot edu)
 
-<!-- 
-### Education
-```markdown
-**neural symbolic AI**, **large language models**, **augmented retrieval**, **knowledge graph reasoning**, and **graph neural networks**.
-Ph.D candidate University of Illinois at Urbana-Champaign. (2019-2024)
+**I also have multiple internship positions available.** Please contact me if you are interested.
+</div>
 
-Ph.D student Arizona State University. (2018-2019)
+Learn more about the lab's research areas and current openings on the [Lab](/lab/) page.
 
-M.S degree from Chinese Academy of Sciences, Institute of Software (2014-2017)
+## Links
 
-B.S degree from HuaZhong University of Science and Technology (2010-2014)
-
-```
--->
+* [Google Scholar](https://scholar.google.com/citations?user=GI7jyeQAAAAJ&hl=en)
+* [Publications](/publications/)
+* [Lab](/lab/)
