@@ -16,22 +16,9 @@ Welcome! I lead a research lab at Wayne State University working on **knowledge 
 * **LLMs + Knowledge Graphs** — retrieval-augmented generation, knowledge graph question answering, and grounding LLM agents in structured, verifiable knowledge.
 * **Neural-Symbolic AI** — combining logical operators and symbolic reasoning with learned representations for interpretable, generalizable AI systems.
 
-See the [Publications](/publications/) page for the full list of papers.
-
-## Join the Lab
-
-<div class="notice--primary" markdown="1">
-**I have several Ph.D. positions available** and am always looking for self-motivated Ph.D. students to join the lab. If you're interested, please email me with the subject line `Ph.D. Application -- [Your Name]` (hw6926 at wayne dot edu).
-
-**Multiple internship positions are also available** — please reach out if you'd like to be considered.
-</div>
 
 ## Current Members
 
-* **Lihui Liu** — Principal Investigator
-
-*Lab roster coming soon — see [Join the Lab](#join-the-lab) above if you'd like to be one of the first members.*
 
 ## Alumni
 
-*None yet.*
