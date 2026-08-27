@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at Wayne State University. My research interests lie in **knowledge graph reasoning** and **graph mining**, with a growing focus on connecting these to **large language models**. I lead a small [research lab](/lab/) working on these topics — visit the lab page for research areas and openings.
+I am an assistant professor at Wayne State University. My research interests lie in **knowledge graph reasoning** and **graph mining**, with a growing focus on connecting these to **large language models**. I lead a [research lab](/lab/) working on these topics — visit the lab page for research areas and openings.
 
 ## Education
 
