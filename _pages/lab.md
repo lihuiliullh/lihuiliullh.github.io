@@ -15,9 +15,14 @@ Welcome! I lead a research lab at Wayne State University working on **knowledge 
 
 
 ## Current Members
-<!-- Urshi Barua Teya -->
-<!-- Asma Irfan -->
-<!-- Chaturya Yarradoddi -->
+Urshi Barua Teya
+
+Sai Mohana Manikanta Mandadapu
+
+Asma Irfan
+
+Chaturya Yarradoddi
+
 
 
 ## Alumni
