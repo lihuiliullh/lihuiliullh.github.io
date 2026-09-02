@@ -27,15 +27,19 @@ author_profile: true
 
 ### Preprint
 
-1. **Universal Knowledge Base: A New Generation of Knowledge Management in the Era of Large Language Models**
-1. **Reinforcement Learning for Large Language Model Post-Training, Reasoning, and Data Generation: A Survey**
-1. **HiKGC: Hyper-Relational Knowledge Graphs Completion with Neural Logical Operators**
+
 1. **Personalized Large Language Models for Healthcare: A Comprehensive Survey**
-1. **A Survey of Unifying Large Language Models with Graph Learning: Concepts, Methods, and Recent Advancements for Text-attributed Graph**
 1. **LLM Agents for Healthcare: Concepts, Methods, and Applications**
 1. **A Survey of Large Language Models in Education: Perspectives from Students and Teachers**
-1. **Scaling Enterprise Agent Deployment: A Survey of LLM-Based Operational Grounding Construction**
+1. **A Survey of Unifying Large Language Models with Graph Learning: Concepts, Methods, and Recent Advancements for Text-attributed Graph**
 1. **A Survey of Process Reward Models in the Lifecycle of Large Language Models**
+
+1. **Universal Knowledge Base: A New Generation of Knowledge Management in the Era of Large Language Models**
+1. **HiKGC: Hyper-Relational Knowledge Graphs Completion with Neural Logical Operators**
+1. **Robust Conformal Consensus: Multi-Agent LLM-as-a-Judge Interval Evaluation with Conformal Prediction**
+
+1. **Scaling Enterprise Agent Deployment: A Survey of LLM-Based Operational Grounding Construction**
+1. **Reinforcement Learning for Large Language Model Post-Training, Reasoning, and Data Generation: A Survey**
 
 ### Conferences
 
