@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at Wayne State University. My research interests lie in **Neural Symbolic AI**, **Agentic LLMs**, **knowledge graph reasoning** and **graph mining**, with a growing focus on connecting these to **large language models**. I lead a [research lab](/lab/) working on these topics — visit the lab page for research areas and openings.
+I am an assistant professor at Wayne State University. My research interests lie in **Neural Symbolic AI**, **Agentic LLMs**, **knowledge graph reasoning** and **graph mining**, with a growing focus on connecting these to **large language models**. I lead the [AID Lab](/lab/) — AID (AI and Data Science) — working on these topics — visit the lab page for research areas and openings.
 
 ## Education
 
@@ -21,5 +21,4 @@ I am an assistant professor at Wayne State University. My research interests lie
 **I have several Ph.D. positions available** and am always looking for self-motivated Ph.D. students to join my team. If you are interested in my research, please feel free to reach out to me via email with the subject line `Ph.D. Application -- [Your Name]`. (hw6926 at wayne dot edu)
 
 **I also have multiple internship positions available.** Please contact me if you are interested.
-
 

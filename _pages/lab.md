@@ -1,13 +1,11 @@
 ---
 layout: single
-title: "Lab"
+title: "AID Lab"
 permalink: /lab/
 author_profile: true
 ---
 
-Welcome! I lead a research lab at Wayne State University working on **knowledge graph reasoning**, **graph mining**, and the intersection of **large language models (LLMs)** with structured knowledge. Our goal is to build systems that reason reliably over knowledge graphs and text, and to bring symbolic structure and neural methods closer together.
-
-<!-- TODO: replace "Lab" above with your lab's official name once you pick one (e.g. "XYZ Lab"), and update it in _data/navigation.yml to match. -->
+Welcome to the **AID Lab** — AID (AI and Data Science) — at Wayne State University! We work on **knowledge graph reasoning**, **graph mining**, and the intersection of **large language models (LLMs)** with structured knowledge. Our goal is to build systems that reason reliably over knowledge graphs and text, and to bring symbolic structure and neural methods closer together.
 
 ## Research Areas
 
