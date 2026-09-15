@@ -1,7 +1,7 @@
 ---
 title: "Space Needle"
-excerpt: "Overlooking downtown Seattle from the Space Needle observation deck<br/><img src='/images/lihui-liu-original.jpeg'>"
+excerpt: "<img src='/images/portfolio-space-needle-1.jpg'>"
 collection: portfolio
 ---
 
-<img src='/images/lihui-liu-original.jpeg'>
+<img src='/images/portfolio-space-needle-1.jpg'>

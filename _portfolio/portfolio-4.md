@@ -1,7 +1,7 @@
 ---
 title: "Space Needle"
-excerpt: "On the glass observation deck of the Space Needle, Seattle<br/><img src='/images/photo2_v8.jpg'>"
+excerpt: "<img src='/images/portfolio-space-needle-2.jpg'>"
 collection: portfolio
 ---
 
-<img src='/images/photo2_v8.jpg'>
+<img src='/images/portfolio-space-needle-2.jpg'>
